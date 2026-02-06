@@ -1,8 +1,29 @@
-<img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966)" /></h1>
-
-<h1 align="center">Привет, я <a href="https://daniilshat.ru/" target="_blank">Анна</a> 
+<h1 align="center">Привет, я Анна</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Аналитик данных</h3>
+
+* Занимаюсь аналитикой данных 📈
+* Готова к сотрудничеству 🤝
+* Мои проекты 👇:
+  
+![Python](https://img.shields.io/badge/python-%23150458?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23150458.svg?style=for-the-badge&logo=SQL&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-%23150458.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23150458.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%23150458.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%23150458.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23150458.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![DataLens](https://img.shields.io/badge/DataLens-%23150458.svg?style=for-the-badge&logo=DataLens&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23150458.svg?style=for-the-badge&logo=tableau&logoColor=%white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-%23150458?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23150458.svg?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%23150458?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-%23150458?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+
 
 <!--
 **a-grom/a-grom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
