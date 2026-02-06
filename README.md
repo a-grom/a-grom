@@ -42,7 +42,7 @@
 
 | Название проекта | Описание | Стек |
 | ---------------- | -------- | ----------------------- |
-| [ Анализ данных об оптовых продажах ](https://github.com/a-grom/Portfolio_Data_Analysis/blob/main/Анализ%20данных%20об%20оптовых%20продажах%20аудиотехники.ipynb)  | апрап  | Pandas, Numpy, Matplotlib, Seaborn |
+| [ Анализ данных об оптовых продажах ](https://github.com/a-grom/Wholesale_sales_analysis)  | апрап  | Pandas, Numpy, Matplotlib, Seaborn |
 | апрапр | арарп  | апв |
 
 
