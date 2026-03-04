@@ -42,7 +42,7 @@
 
 | Название проекта | Описание | Стек |
 | ---------------- | -------- | ----------------------- |
-| [ Анализ данных об оптовых продажах ](https://github.com/a-grom/Wholesale_sales_analysis)  | Выполнить анализ данных заказов электронного магазина  | Pandas, Numpy, Matplotlib, Seaborn |
+| [ Анализ данных об оптовых продажах ](https://github.com/a-grom/Wholesale_sales_analysis)  | Выполнен анализ данных заказов электронного магазина  | Pandas, Numpy, Matplotlib, Seaborn |
 
 
 
